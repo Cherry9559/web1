@@ -1,0 +1,47 @@
+header,
+nav,
+section,
+footer {
+    border: 1px rgb(27, 134, 68);
+    margin-top: 5px;    
+}
+header{
+    margin-top: 30px;
+}
+header a{
+    text-decoration: none;
+    color: rgb(116, 146, 63);
+}
+nav{
+    border: 3px solid green;
+    border-left: none;
+    border-right: none;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+#wrap {
+    text-align: center;
+    margin-top: 30px;
+    
+    
+}
+nav a{
+    color: darkgreen;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 20px;
+    border-right:1px solid rgb(27, 134, 68);
+    padding-right: 10px;
+    
+}
+
+section iframe{
+    width: 800px;
+    height: 450px;
+}
+section img {
+    width: 900px;
+    height: 550px;
+}
